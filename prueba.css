@@ -1,0 +1,11 @@
+.prueba{
+    color: black !important;
+}
+
+.prueba .card{
+    border: 2px solid black !important;
+}
+
+.prueba .card a{
+    color: blue !important;
+}
